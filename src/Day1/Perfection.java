@@ -5,16 +5,16 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
-////Write a program to determine whether a number N is equal to the sum of its proper positive divisors (excluding the number itself)
-////Input:
-////First line: T (number of test case)
-////For each test case
-////First line : N
-////Output:
-////Print YES if true else NO
-////6 : YES (1+2+3)
-////5 : NO (5 != 1)
-////28: YES (1 + 2 + 4 + 7 + 14)
+//Write a program to determine whether a number N is equal to the sum of its proper positive divisors (excluding the number itself)
+//Input:
+//First line: T (number of test case)
+//For each test case
+//First line : N
+//Output:
+//Print YES if true else NO
+//6 : YES (1+2+3)
+//5 : NO (5 != 1)
+//28: YES (1 + 2 + 4 + 7 + 14)
 public class Perfection {
     static String Solve(int n){
         // Write your code here
