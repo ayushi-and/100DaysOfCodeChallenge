@@ -1,0 +1,24 @@
+
+{
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(îžß ÿÿÿÿÿ
+{
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ˆŽ¨Éùÿÿÿÿ
+v
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(öÖòÎ
+{
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(è€ºëùÿÿÿÿ
+v
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(öÖòÎ
+v
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(û˜€«
+{
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ˆŽ¨Éùÿÿÿÿ
+{
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ìÛ¶ïÿÿÿÿÿ
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÜù­
+[
+java:S2259"BA "NullPointerException" could be thrown; "prev" is nullable here.(¨•ÿ¡ûÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ü§¤
+L	java:S106"9Replace this use of System.out or System.err by a logger.(²º¾¸
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(„üÌ¹ûÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(¦Ã“òûÿÿÿÿ
