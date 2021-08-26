@@ -1,0 +1,15 @@
+
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿë‚”
+^
+java:S2259E"CA "NullPointerException" could be thrown; "node2" is nullable here.(ËìŠ²øÿÿÿÿ
+^
+java:S2259E"CA "NullPointerException" could be thrown; "node1" is nullable here.(ËìŠ²øÿÿÿÿ
+g
+java:S22597"L"NullPointerException" will be thrown when invoking method "appendZeroes()".(‘…Ú®ùÿÿÿÿ
+b
+java:S2259;"L"NullPointerException" will be thrown when invoking method "appendZeroes()".(í„ı
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·„©
+W
+java:S1854P":Remove this useless assignment to local variable "result".(ı€¸Ó8ıØ‘™´/
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

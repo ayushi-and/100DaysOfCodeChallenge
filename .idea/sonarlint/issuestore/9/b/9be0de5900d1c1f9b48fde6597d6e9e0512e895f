@@ -1,0 +1,20 @@
+
+}
+java:S4165N"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ˆŽ¨Éùÿÿÿÿ
+}
+java:S4165S"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(º‰¸Ùýÿÿÿÿ
+x
+java:S4165O"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(û˜€«
+}
+java:S4165L"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(îžß ÿÿÿÿÿ
+}
+java:S4165M"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(è€ºëùÿÿÿÿ
+}
+java:S4165P"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ìÛ¶ïÿÿÿÿÿ
+}
+java:S4165Q"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(éœ«áøÿÿÿÿ
+x
+java:S4165R"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(öÖòÎ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è¢ÛÄûÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(²º¾¸
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(„üÌ¹ûÿÿÿÿ
