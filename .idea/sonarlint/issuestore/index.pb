@@ -35,8 +35,6 @@ Q
 !src/Day15/TicTacToeMainClass.java,9/b/9bf5376a62f4b7d74ae28e7bc531ae626752674c
 Q
 !src/Day16/ParenthesisChecker.java,b/f/bf04f5346d9b971412e6b065c29dea00054a267e
-Q
-!src/Day17/NextGreaterElement.java,e/6/e635ae91b022ee5f7efbed6ed8c4a2add2eadddb
 X
 (src/Day18/LinkedListCreateAndInsert.java,9/b/9be0de5900d1c1f9b48fde6597d6e9e0512e895f
 Q
