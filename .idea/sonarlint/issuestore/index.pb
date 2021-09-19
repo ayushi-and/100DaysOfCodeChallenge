@@ -51,8 +51,6 @@ W
 'src/Day25/DeleteMiddleOfLinkedList.java,c/7/c7e9f7c3c2c9fdb23d4d39d4f49a276330064d4d
 X
 (src/Day26/DetectAndRemoveLoopInList.java,3/4/347ecde450cb2e8b08b1984177b15c1e5b1f71dc
->
-src/Day29/Info,2/9/29dc701fd4e42a7c441218558e0e0ee303f1a9ff
 R
 "src/Day22/ReverseOfLinkedList.java,c/f/cfdc9c401f686d71be0d353433182f00dd533068
 S
