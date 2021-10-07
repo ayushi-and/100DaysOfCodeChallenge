@@ -1,0 +1,20 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×žÒš
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ëø‚
+v
+java:S1845%"`Rename method "Root" to prevent any misunderstanding/clash with field "root" defined on line 33.(¨ˆÈ•
+c	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ˆÈ•
+Q
+java:S2696&"6Make the enclosing method "static" or remove this set.(¢éöµûÿÿÿÿ
+g
+java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(œ…ø¢
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(œ…ø¢
+L
+java:S26960"6Make the enclosing method "static" or remove this set.(É§“³
+g
+java:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(Å°Ú™
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(Å°Ú™
+L
+java:S2696;"6Make the enclosing method "static" or remove this set.(‰¡ì¶
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(£ÿôŠ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿ
