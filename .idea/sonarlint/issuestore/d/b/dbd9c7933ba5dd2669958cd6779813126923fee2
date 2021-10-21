@@ -1,0 +1,9 @@
+
+†
+java:S13196"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(³Æª÷üÿÿÿÿ
+]
+java:S3824>"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(òÔ•H
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ØŠ“ûÿÿÿÿ
+>
+java:S1659"#Declare "right" on a separate line.(¦·Öøùÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(–ûäøÿÿÿÿ

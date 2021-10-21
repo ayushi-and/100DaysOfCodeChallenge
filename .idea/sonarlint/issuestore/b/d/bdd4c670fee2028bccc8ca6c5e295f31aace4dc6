@@ -1,0 +1,10 @@
+
+J
+java:S10666"/Merge this if statement with the enclosing one.(¯êŞ™øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ò«¨şÿÿÿÿ
+S
+java:S18547"8Remove this useless assignment to local variable "root".(ûªÙĞøÿÿÿÿ
+h
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ş†¤è
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ï‘²üÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
